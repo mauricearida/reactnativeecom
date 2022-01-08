@@ -1,0 +1,14 @@
+[
+  {
+    "_id": {
+      "$oid": "asdasdasdasd"
+    },
+    "name": "name1"
+  },
+  {
+    "_id": {
+      "$oid": "asdasdasdasd"
+    },
+    "name": "name2"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "_id": {
+      "$oid": "asdasdasdasd"
+    },
+    "image": "should be some path",
+    "brand": "PS3",
+    "price": 250,
+    "rating": 1,
+    "numReviews": 0,
+    "isFeatured": true,
+    "name": "FIFA 20",
+    "description": "The most hard fifa ever",
+    "category": {
+      "$oid": "asdasdasdasdasdasd"
+    },
+    "countInStock": 25,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "asdasdasdasd"
+    },
+    "image": "should be some path",
+    "brand": "PS4",
+    "price": 350,
+    "rating": 2,
+    "numReviews": 1,
+    "isFeatured": false,
+    "name": "FIFA 19",
+    "description": "The most hard fifa everrr",
+    "category": {
+      "$oid": "asdasdasdasdasdasd"
+    },
+    "countInStock": 10,
+    "__v": 0
+  }
+]
